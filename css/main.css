@@ -33,3 +33,7 @@ body {
 .pad-bottom {
     padding-bottom: 1em;
 }
+
+html {
+    font-family: sans-serif;
+}
