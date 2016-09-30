@@ -26,3 +26,8 @@ body {
   width: 100%;
   height:inherit;
 }
+
+image {
+  display: block;
+  width: 100%;
+}
